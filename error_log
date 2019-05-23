@@ -1,0 +1,850 @@
+[11-Sep-2018 19:35:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/e9woeaynpbci/public_html/score/clear.php on line 84
+[11-Sep-2018 19:35:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/e9woeaynpbci/public_html/score/clear.php on line 84
+[11-Sep-2018 19:36:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:36:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:36:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:36:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:36:12 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[11-Sep-2018 19:39:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:39:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:39:33 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[11-Sep-2018 19:39:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:39:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:39:36 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[11-Sep-2018 19:39:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:39:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:39:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:39:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:39:47 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[11-Sep-2018 19:39:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:39:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:39:50 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[11-Sep-2018 19:41:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:41:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:41:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:41:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:41:37 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[11-Sep-2018 19:41:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:41:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:41:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:41:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:43:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:43:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:43:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:43:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:43:58 UTC] PHP Notice:  Undefined variable: this_table in /home/e9woeaynpbci/public_html/score/clear.php on line 51
+[11-Sep-2018 19:43:58 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 72
+[11-Sep-2018 19:44:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:44:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:44:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:44:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:44:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:44:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:44:43 UTC] PHP Notice:  Undefined variable: this_table in /home/e9woeaynpbci/public_html/score/clear.php on line 51
+[11-Sep-2018 19:44:43 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 72
+[11-Sep-2018 19:45:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:45:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:45:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:45:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:45:24 UTC] PHP Notice:  Undefined variable: this_table in /home/e9woeaynpbci/public_html/score/clear.php on line 51
+[11-Sep-2018 19:45:24 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 72
+[11-Sep-2018 19:46:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:46:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:46:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:46:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:46:48 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 71
+[11-Sep-2018 19:46:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:46:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:46:52 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 71
+[11-Sep-2018 19:46:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:46:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:47:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:47:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:47:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:47:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:47:50 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 72
+[11-Sep-2018 19:47:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:47:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:47:58 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 72
+[11-Sep-2018 19:48:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:48:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:48:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:48:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:48:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:48:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:48:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:48:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:48:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:48:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:48:41 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 72
+[11-Sep-2018 19:48:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:48:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:54:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:54:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:54:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:54:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:54:14 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 72
+[11-Sep-2018 19:54:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:54:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:54:17 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 72
+[11-Sep-2018 19:55:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:55:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:55:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:55:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:55:44 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 73
+[11-Sep-2018 19:55:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:55:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:55:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:55:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:55:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:55:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 19:55:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 19:55:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 20:23:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 20:23:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Sep-2018 20:23:41 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 73
+[11-Sep-2018 20:23:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Sep-2018 20:23:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:24:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:24:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:24:56 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 12:24:56 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 12:24:56 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 12:24:56 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 12:24:56 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[12-Sep-2018 12:25:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:25:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:25:33 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 12:25:33 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 12:25:33 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 12:25:33 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 12:27:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 12:27:03 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 12:27:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 12:27:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 12:27:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 12:27:05 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 12:27:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 12:27:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 12:27:05 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[12-Sep-2018 12:27:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:08 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 12:27:08 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 12:27:08 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 12:27:08 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 12:27:08 UTC] PHP Notice:  Use of undefined constant males - assumed 'males' in /home/e9woeaynpbci/public_html/score/clear.php on line 74
+[12-Sep-2018 12:27:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:12 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 12:27:12 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 12:27:12 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 12:27:12 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 12:27:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:26 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:26 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 12:27:26 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 12:27:26 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 12:27:26 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 92
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 96
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 12:27:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 108
+[12-Sep-2018 12:27:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 96
+[12-Sep-2018 12:27:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:36 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 100
+[12-Sep-2018 12:27:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:27:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:27:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:28:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:28:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:28:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:28:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:28:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:28:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:29:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:29:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:30:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:30:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:30:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:30:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:30:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:30:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:30:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:30:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:30:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:30:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:40:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:40:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:50:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:50:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:52:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:52:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:52:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:52:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:52:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:52:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:53:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:53:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:54:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:54:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:56:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:56:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:56:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:56:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:57:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:57:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 12:57:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 12:57:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:00:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:00:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:01:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:01:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:02:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:02:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:03:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:03:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:17:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:17:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:17:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:17:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:17:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:17:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:39:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:39:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:39:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:39:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:41:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:41:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:41:29 UTC] PHP Notice:  Undefined index: password in /home/e9woeaynpbci/public_html/score/clear.php on line 53
+[12-Sep-2018 13:41:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:41:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:41:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:41:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:41:44 UTC] PHP Notice:  Undefined index: password in /home/e9woeaynpbci/public_html/score/clear.php on line 53
+[12-Sep-2018 13:41:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:41:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:41:52 UTC] PHP Notice:  Undefined index: password in /home/e9woeaynpbci/public_html/score/clear.php on line 53
+[12-Sep-2018 13:42:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:42:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:42:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 13:42:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:42:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:42:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 13:42:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:42:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:42:45 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 101
+[12-Sep-2018 13:42:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 13:42:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:42:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:42:53 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 101
+[12-Sep-2018 13:42:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:42:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:42:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:42:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:43:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:43:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:43:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:43:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:43:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:43:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:43:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:43:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:46:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/e9woeaynpbci/public_html/score/clear.php on line 53
+[12-Sep-2018 13:46:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:46:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:47:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:47:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:47:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:47:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:47:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:47:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:47:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:47:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:48:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:48:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:48:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:48:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:53:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 13:53:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 13:53:51 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 13:53:51 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 13:53:51 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 13:53:51 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 14:55:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 14:55:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 14:55:33 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 14:55:33 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 14:55:33 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 14:55:33 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 93
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 14:56:43 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 109
+[12-Sep-2018 14:57:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 14:57:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 14:57:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 14:57:21 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 101
+[12-Sep-2018 14:57:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 14:57:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 14:58:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 14:58:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 14:58:13 UTC] PHP Notice:  Undefined variable: issues in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 164
+[12-Sep-2018 14:58:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 14:58:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 15:39:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 15:39:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 15:39:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 15:39:39 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 15:39:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 15:39:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 17:26:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 17:26:51 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 17:26:51 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 17:26:51 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 17:26:51 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 17:26:51 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 17:27:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 17:27:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 17:27:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 17:27:05 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 17:27:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 17:27:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 17:27:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 17:27:13 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 17:27:13 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 17:27:13 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 17:27:13 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 17:27:13 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 17:27:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 17:27:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 17:27:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 17:27:23 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 17:27:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 17:27:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 93
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 17:27:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 109
+[12-Sep-2018 17:27:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 17:27:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 17:27:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 17:27:41 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 101
+[12-Sep-2018 17:27:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 17:27:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:01:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:01:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:01:49 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 19:01:49 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 19:01:49 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 19:01:49 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 93
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 19:02:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 109
+[12-Sep-2018 19:02:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[12-Sep-2018 19:02:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:02:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:02:20 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 101
+[12-Sep-2018 19:02:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:02:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:02:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:02:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:02:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:02:57 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:10:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:10:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:11:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:11:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 19:11:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 19:11:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 20:22:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 20:22:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 20:22:53 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 20:22:53 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 20:22:53 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 20:22:53 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-Sep-2018 20:23:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-Sep-2018 20:23:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-Sep-2018 20:23:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-Sep-2018 20:23:03 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-Sep-2018 20:23:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-Sep-2018 20:23:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[13-Sep-2018 01:04:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[13-Sep-2018 01:04:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[13-Sep-2018 01:04:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[13-Sep-2018 01:04:05 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[13-Sep-2018 01:04:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[13-Sep-2018 01:04:05 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[13-Sep-2018 01:04:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[13-Sep-2018 01:04:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[13-Sep-2018 01:04:06 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[13-Sep-2018 01:04:06 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[13-Sep-2018 01:04:06 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[13-Sep-2018 01:04:06 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[13-Sep-2018 01:05:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/pelicanxpleaderboards.me/templates/dbbasics.php on line 1
+[13-Sep-2018 01:05:03 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/pelicanxpleaderboards.me/templates/header.html on line 1
+[13-Sep-2018 01:05:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/pelicanxpleaderboards.me/templates/header.html on line 12
+[13-Sep-2018 01:05:03 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/pelicanxpleaderboards.me/templates/header.html on line 15
+[13-Sep-2018 01:05:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/pelicanxpleaderboards.me/templates/header.html on line 23
+[13-Sep-2018 01:05:03 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/pelicanxpleaderboards.me/templates/header.html on line 38
+[13-Sep-2018 01:05:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[13-Sep-2018 01:05:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[13-Sep-2018 01:05:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[13-Sep-2018 01:05:44 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[13-Sep-2018 01:05:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[13-Sep-2018 01:05:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[13-Sep-2018 04:09:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[13-Sep-2018 04:09:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[13-Sep-2018 04:09:45 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[13-Sep-2018 04:09:45 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[13-Sep-2018 04:09:45 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[13-Sep-2018 04:09:45 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[13-Sep-2018 05:35:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[13-Sep-2018 05:35:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[13-Sep-2018 05:35:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[13-Sep-2018 05:35:10 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[13-Sep-2018 05:35:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[13-Sep-2018 05:35:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[13-Sep-2018 14:22:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[13-Sep-2018 14:22:22 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[13-Sep-2018 14:22:22 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[13-Sep-2018 14:22:22 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[13-Sep-2018 14:22:22 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[13-Sep-2018 14:22:22 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[13-Sep-2018 23:10:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[13-Sep-2018 23:10:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[13-Sep-2018 23:10:14 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[13-Sep-2018 23:10:14 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[13-Sep-2018 23:10:14 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[13-Sep-2018 23:10:14 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[14-Sep-2018 10:38:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[14-Sep-2018 10:38:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[14-Sep-2018 10:38:47 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[14-Sep-2018 10:38:47 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[14-Sep-2018 10:38:47 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[14-Sep-2018 10:38:47 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[15-Sep-2018 13:52:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[15-Sep-2018 13:52:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[15-Sep-2018 13:52:21 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[15-Sep-2018 13:52:21 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[15-Sep-2018 13:52:21 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[15-Sep-2018 13:52:21 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[16-Sep-2018 19:02:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[16-Sep-2018 19:02:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[16-Sep-2018 19:02:07 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[16-Sep-2018 19:02:07 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[16-Sep-2018 19:02:07 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[16-Sep-2018 19:02:07 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[16-Sep-2018 21:41:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[16-Sep-2018 21:41:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[16-Sep-2018 21:41:48 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[16-Sep-2018 21:41:48 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[16-Sep-2018 21:41:48 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[16-Sep-2018 21:41:48 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[16-Sep-2018 21:41:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[16-Sep-2018 21:41:50 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[16-Sep-2018 21:41:50 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[16-Sep-2018 21:41:50 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[16-Sep-2018 21:41:50 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[16-Sep-2018 21:41:50 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[17-Sep-2018 13:56:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[17-Sep-2018 13:56:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[17-Sep-2018 13:56:36 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[17-Sep-2018 13:56:36 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[17-Sep-2018 13:56:36 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[17-Sep-2018 13:56:36 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[19-Sep-2018 22:51:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[19-Sep-2018 22:51:24 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[19-Sep-2018 22:51:24 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[19-Sep-2018 22:51:24 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[19-Sep-2018 22:51:24 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[19-Sep-2018 22:51:24 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[20-Sep-2018 19:14:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[20-Sep-2018 19:14:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[20-Sep-2018 19:14:02 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[20-Sep-2018 19:14:02 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[20-Sep-2018 19:14:02 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[20-Sep-2018 19:14:02 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[21-Sep-2018 18:51:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[21-Sep-2018 18:51:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[21-Sep-2018 18:51:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[21-Sep-2018 18:51:40 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[21-Sep-2018 18:51:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[21-Sep-2018 18:51:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[21-Sep-2018 18:51:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[21-Sep-2018 18:51:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 93
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[21-Sep-2018 18:52:15 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 109
+[21-Sep-2018 18:52:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[21-Sep-2018 18:52:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[21-Sep-2018 18:52:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[21-Sep-2018 18:52:32 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 101
+[21-Sep-2018 18:52:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[21-Sep-2018 18:52:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[22-Sep-2018 13:06:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[22-Sep-2018 13:06:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[22-Sep-2018 13:06:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[22-Sep-2018 13:06:18 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[22-Sep-2018 13:06:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[22-Sep-2018 13:06:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[24-Sep-2018 02:02:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[24-Sep-2018 02:02:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[24-Sep-2018 02:02:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[24-Sep-2018 02:02:18 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[24-Sep-2018 02:02:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[24-Sep-2018 02:02:18 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[24-Sep-2018 16:00:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[24-Sep-2018 16:00:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[24-Sep-2018 16:00:34 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[24-Sep-2018 16:00:34 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[24-Sep-2018 16:00:34 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[24-Sep-2018 16:00:34 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[25-Sep-2018 20:21:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:21:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:21:27 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[25-Sep-2018 20:21:27 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[25-Sep-2018 20:21:27 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[25-Sep-2018 20:21:28 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[25-Sep-2018 20:21:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:21:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:21:28 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[25-Sep-2018 20:21:28 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[25-Sep-2018 20:21:28 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[25-Sep-2018 20:21:28 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[25-Sep-2018 20:21:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:21:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:21:29 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[25-Sep-2018 20:21:29 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[25-Sep-2018 20:21:29 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[25-Sep-2018 20:21:29 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 93
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[25-Sep-2018 20:26:48 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 109
+[25-Sep-2018 20:26:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[25-Sep-2018 20:26:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:26:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:26:56 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 101
+[25-Sep-2018 20:26:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:26:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:27:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[25-Sep-2018 20:27:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:27:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:27:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:27:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:27:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:27:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:28:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:28:12 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:28:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:28:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[25-Sep-2018 20:30:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[25-Sep-2018 20:30:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[26-Sep-2018 21:49:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[26-Sep-2018 21:49:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[26-Sep-2018 21:49:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[26-Sep-2018 21:49:39 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[26-Sep-2018 21:49:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[26-Sep-2018 21:49:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[27-Sep-2018 20:50:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[27-Sep-2018 20:50:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[27-Sep-2018 20:50:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[27-Sep-2018 20:50:59 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[27-Sep-2018 20:50:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[27-Sep-2018 20:50:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[28-Sep-2018 14:56:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[28-Sep-2018 14:56:29 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[28-Sep-2018 14:56:29 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[28-Sep-2018 14:56:29 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[28-Sep-2018 14:56:29 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[28-Sep-2018 14:56:29 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[30-Sep-2018 15:08:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[30-Sep-2018 15:08:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[30-Sep-2018 15:08:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[30-Sep-2018 15:08:58 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[30-Sep-2018 15:08:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[30-Sep-2018 15:08:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[01-Oct-2018 19:36:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[01-Oct-2018 19:36:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[01-Oct-2018 19:36:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[01-Oct-2018 19:36:40 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[01-Oct-2018 19:36:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[01-Oct-2018 19:36:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[04-Oct-2018 11:18:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[04-Oct-2018 11:18:04 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[04-Oct-2018 11:18:04 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[04-Oct-2018 11:18:04 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[04-Oct-2018 11:18:04 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[04-Oct-2018 11:18:04 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[05-Oct-2018 19:50:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[05-Oct-2018 19:50:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[05-Oct-2018 19:50:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[05-Oct-2018 19:50:30 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[05-Oct-2018 19:50:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[05-Oct-2018 19:50:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[05-Oct-2018 19:58:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[05-Oct-2018 19:58:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[05-Oct-2018 19:58:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[05-Oct-2018 19:58:10 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[05-Oct-2018 19:58:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[05-Oct-2018 19:58:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[07-Oct-2018 01:23:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[07-Oct-2018 01:23:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[07-Oct-2018 01:23:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[07-Oct-2018 01:23:44 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[07-Oct-2018 01:23:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[07-Oct-2018 01:23:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[09-Oct-2018 20:25:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[09-Oct-2018 20:25:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[09-Oct-2018 20:25:46 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[09-Oct-2018 20:25:46 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[09-Oct-2018 20:25:46 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[09-Oct-2018 20:25:46 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 93
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[09-Oct-2018 20:26:10 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 109
+[09-Oct-2018 20:26:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[09-Oct-2018 20:26:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[09-Oct-2018 20:26:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[09-Oct-2018 20:26:38 UTC] PHP Notice:  Undefined index: logged in /home/e9woeaynpbci/public_html/score/login.php on line 101
+[09-Oct-2018 20:26:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[09-Oct-2018 20:26:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[09-Oct-2018 20:27:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[09-Oct-2018 20:27:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[09-Oct-2018 23:15:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[09-Oct-2018 23:15:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[09-Oct-2018 23:15:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[09-Oct-2018 23:15:58 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[09-Oct-2018 23:15:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[09-Oct-2018 23:15:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 93
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[09-Oct-2018 23:17:31 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 109
+[10-Oct-2018 00:39:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[10-Oct-2018 00:39:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[10-Oct-2018 00:39:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[10-Oct-2018 00:39:41 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[10-Oct-2018 00:39:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[10-Oct-2018 00:39:41 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[14-Oct-2018 18:46:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[14-Oct-2018 18:46:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[14-Oct-2018 18:46:11 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[14-Oct-2018 18:46:11 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[14-Oct-2018 18:46:11 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[14-Oct-2018 18:46:11 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[26-Oct-2018 05:27:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[26-Oct-2018 05:27:00 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[26-Oct-2018 05:27:00 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[26-Oct-2018 05:27:00 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[26-Oct-2018 05:27:00 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[26-Oct-2018 05:27:00 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[26-Oct-2018 16:09:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[26-Oct-2018 16:09:52 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[26-Oct-2018 16:09:52 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[26-Oct-2018 16:09:52 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[26-Oct-2018 16:09:52 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[26-Oct-2018 16:09:52 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[21-Nov-2018 16:22:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[21-Nov-2018 16:22:58 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[21-Nov-2018 16:22:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[21-Nov-2018 16:22:58 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[21-Nov-2018 16:22:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[21-Nov-2018 16:22:58 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[21-Nov-2018 16:24:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[21-Nov-2018 16:24:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[21-Nov-2018 16:24:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[21-Nov-2018 16:24:59 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[21-Nov-2018 16:24:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[21-Nov-2018 16:24:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[23-Nov-2018 23:29:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[23-Nov-2018 23:29:16 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[23-Nov-2018 23:29:16 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[23-Nov-2018 23:29:16 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[23-Nov-2018 23:29:16 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[23-Nov-2018 23:29:16 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[06-Jan-2019 04:12:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[06-Jan-2019 04:12:25 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[06-Jan-2019 04:12:25 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[06-Jan-2019 04:12:25 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[06-Jan-2019 04:12:25 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[06-Jan-2019 04:12:25 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[06-Jan-2019 04:12:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[06-Jan-2019 04:12:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[06-Jan-2019 04:12:38 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[06-Jan-2019 04:12:38 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[06-Jan-2019 04:12:38 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[06-Jan-2019 04:12:38 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[06-Jan-2019 04:33:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[06-Jan-2019 04:33:07 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[06-Jan-2019 04:33:07 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[06-Jan-2019 04:33:07 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[06-Jan-2019 04:33:07 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[06-Jan-2019 04:33:07 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[06-Jan-2019 04:33:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[06-Jan-2019 04:33:46 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[06-Jan-2019 04:33:46 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[06-Jan-2019 04:33:46 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[06-Jan-2019 04:33:46 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[06-Jan-2019 04:33:46 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[06-Jan-2019 04:34:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[06-Jan-2019 04:34:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[06-Jan-2019 04:34:17 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[06-Jan-2019 04:34:17 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[06-Jan-2019 04:34:17 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[06-Jan-2019 04:34:17 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[06-Jan-2019 14:53:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[06-Jan-2019 14:53:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[06-Jan-2019 14:53:34 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[06-Jan-2019 14:53:34 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[06-Jan-2019 14:53:34 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[06-Jan-2019 14:53:34 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[08-Jan-2019 20:34:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[08-Jan-2019 20:34:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[08-Jan-2019 20:34:54 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[08-Jan-2019 20:34:54 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[08-Jan-2019 20:34:54 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[08-Jan-2019 20:34:54 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[11-Jan-2019 00:22:44 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[11-Jan-2019 03:20:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Jan-2019 03:20:01 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Jan-2019 03:20:01 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[11-Jan-2019 03:20:01 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[11-Jan-2019 03:20:01 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[11-Jan-2019 03:20:01 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[11-Jan-2019 23:14:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[11-Jan-2019 23:14:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[11-Jan-2019 23:14:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[11-Jan-2019 23:14:39 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[11-Jan-2019 23:14:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[11-Jan-2019 23:14:39 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[06-Mar-2019 16:09:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[06-Mar-2019 16:09:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[06-Mar-2019 16:09:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[06-Mar-2019 16:09:59 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[06-Mar-2019 16:09:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[06-Mar-2019 16:09:59 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[10-May-2019 18:58:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[10-May-2019 18:58:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[10-May-2019 18:58:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[10-May-2019 18:58:30 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[10-May-2019 18:58:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[10-May-2019 18:58:30 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[10-May-2019 21:48:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[10-May-2019 21:48:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[10-May-2019 21:48:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[10-May-2019 21:48:23 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[10-May-2019 21:48:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[10-May-2019 21:48:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[12-May-2019 03:00:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[12-May-2019 03:00:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[12-May-2019 03:00:36 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[12-May-2019 03:00:36 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[12-May-2019 03:00:36 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[12-May-2019 03:00:36 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[20-May-2019 15:47:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[20-May-2019 15:47:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[20-May-2019 15:47:17 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[20-May-2019 15:47:17 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[20-May-2019 15:47:17 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[20-May-2019 15:47:17 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[23-May-2019 00:37:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[23-May-2019 00:37:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[23-May-2019 00:37:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[23-May-2019 00:37:40 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[23-May-2019 00:37:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[23-May-2019 00:37:40 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[23-May-2019 00:54:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[23-May-2019 00:54:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[23-May-2019 00:54:19 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[23-May-2019 00:54:19 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[23-May-2019 00:54:19 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[23-May-2019 00:54:19 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[23-May-2019 00:54:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 93
+[23-May-2019 00:54:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/login.php on line 97
+[23-May-2019 00:54:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[23-May-2019 00:54:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[23-May-2019 00:54:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[23-May-2019 00:54:23 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[23-May-2019 00:54:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[23-May-2019 00:54:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38
+[23-May-2019 00:54:23 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/login.php on line 109
+[23-May-2019 00:54:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/dbbasics.php on line 1
+[23-May-2019 00:54:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/e9woeaynpbci/public_html/score/templates/header.html on line 1
+[23-May-2019 00:54:27 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 12
+[23-May-2019 00:54:27 UTC] PHP Notice:  Undefined index: user in /home/e9woeaynpbci/public_html/score/templates/header.html on line 15
+[23-May-2019 00:54:27 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 23
+[23-May-2019 00:54:27 UTC] PHP Notice:  Undefined index: logged-in in /home/e9woeaynpbci/public_html/score/templates/header.html on line 38

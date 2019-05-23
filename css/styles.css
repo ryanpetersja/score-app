@@ -1,0 +1,252 @@
+.checkline  {padding: 20px}
+
+body  {
+
+}
+
+.event-form-hall    {
+            width: 150px;
+    background: #2c3034 ;
+    padding: 0 10px;
+    border-radius: 0px 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+
+.bg-first   {
+    background-color: #fbcb2f !important; color: #333 	
+}
+
+.bg-second  {
+    background-color: #C0C0C0 !important;  color: #333
+}
+
+.bg-third   {
+    background-color: #CD7F32 !important; color: #333
+}
+
+.main-title {
+    text-align: center;
+}
+
+.bg-first h5, .bg-second h5, .bg-third h5  {
+    font-weight: 900
+}
+
+.bg-first h5, .bg-second h5, .bg-third h5, .bg-rest  h5{
+    font-size: 2rem
+}
+
+.totals {
+    font-size: 2rem;
+}
+
+.positions  {
+    font-size: 2rem;
+}
+
+.basic-table    {
+}
+
+.basic-table thead th  {
+    font-size: 2rem;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top: none
+}
+
+.basic-table thead   {
+    font-size: 2rem;
+    border-top: none
+}
+
+body    {
+     background-color: #fbcb2f;
+
+}
+
+.basic-table    {
+    border-radius: 15px
+}
+
+.noe span {
+    background-color: #cc5050;
+    color: #fbcb2f;
+    border-radius: 10px;
+    padding: 0 10px;
+    font-size: 2.5rem;
+    text-align: center;
+    min-width: 50px;
+}
+
+.noe    {
+    text-align: center;
+}
+
+.event-select   { margin-bottom: 20px}
+
+.my-btn        {
+    color: #fff;
+    background-color: #fbcb2f;
+    border-color: #fbcb2f;
+    text-align: center;
+    margin: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+
+.event-form    {
+    background-color: #ab2b2b !important;
+    border-radius: 20px;
+    color: #fff;
+    padding: 5rem 0px;
+}
+
+.score-tabs    {
+    margin-top: 5rem;
+}
+
+.table-sub    {
+    text-align: center; 
+        margin-top: 0.5rem;
+}
+
+.hide    {
+    display: none;
+
+}
+
+.show    {
+    display: block;
+}
+
+#females h2, #males h2, #combined h2    {
+    padding: 15px;
+    color: #fff;
+    background-color: #212529;
+    border-radius: 0px 0px 30px 30px;
+}
+
+#combined h2 {
+    background-color: #010101;
+    background-color: #212529;
+    border-radius: 0px 0px 30px 30px;
+}
+
+.score-tabs  .nav-link    {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #af3d3d;
+    border: 1px solid;
+    margin: 10px;
+}
+
+.nav-pills .nav-link.active{
+    color: #fff;
+    background-color: #dc353599;
+    border-radius: 100px;
+    box-shadow: #cd7f32 0px 4px 15px;
+}
+
+.bg-danger    {
+    color: #fff;
+        font-size: 1.5rem;
+    text-align: center;
+}
+
+.update    {
+    
+}
+
+.updates     {
+    text-align: center;
+    background-color: #a1ff7a;
+    border-radius: 20px;
+}
+
+.logged-in    {
+    margin: 5rem auto;
+    display: block;
+    text-align: center;
+    background: #3c3c3c;
+    padding: 5rem;
+    border-radius: 40px;
+    color: #fff;
+    
+}
+
+.logged-in h3    {
+    margin-bottom: 1rem
+}
+
+.login-form    {
+        background-color: #26303a;
+    margin-top: 5rem;
+    padding: 5rem;
+    border-radius: 50px;
+}
+
+.user        {
+    background-color: #333;
+    color: #fbcb2f;
+    padding-top: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.user span {
+    margin-right: 5px;
+}
+
+.special    {
+    background: #ff7600;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.special a   {
+    color: #fff
+}
+
+.main-menu a {
+    color: #fff;
+    font-weight: bold;
+}
+
+.main-menu    {
+    color: #fff;
+    font-weight: bold;
+    padding: 20px 20px;}
+
+
+.hall-name    {
+    
+}
+
+.hall-name img {
+    width: 80px;
+}
+
+.selected {
+    font-weight: bold;
+    color: #fff;
+    border: 1px solid;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.selected a        {
+    background: yellow;
+    color: #fff !important;
+    border-radius: 10px !important;
+    background-color: #af3d3d;
+    font-size: 20px !important;
+    
+}
+
+.Update    {
+    background-color: #000;
+}

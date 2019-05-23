@@ -1,0 +1,50 @@
+<?php session_start();  ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><?php print_r($title); ?> - Hall of Halls </title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="<?php print_r($title); ?>">
+       <div class="container-fluid ">
+         <div class="row user <?php if(!$_SESSION['logged-in']){ print_r('hide');}?>">
+           <div class="col-sm-3 col-md-2 col-lg-2 offset-sm-9 offset-md-10 offset-lg-10 ">
+             
+              <p><?php print_r( 'Admin: <span>' . $_SESSION['user'] . '</span>'); ?></p>
+           </div>
+         </div>
+            <ul class="nav justify-content-end main-menu">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.php">Table</a>
+                </li>
+                  <?php
+                      if($_SESSION['logged-in']){
+                        print_r('
+                          <li class="nav-item special">
+                              <a class="nav-link" href="event.php">Add/update Result</a>
+                          </li>
+                          <li class="nav-item">
+                            <a class="nav-link" href="clear.php">Clear Table</a>
+                        </li>
+                        ');
+                      }
+                    ?>
+ 
+                    <li class="nav-item">
+                      <a class="nav-link" href=" <?php 
+
+                      if($_SESSION['logged-in'] == false ) {
+                            print_r('login.php'); 
+                            $see = 'login';
+                            }else{
+                                print_r('logout.php');
+                                 $see = 'Log-out';
+                                 } ?> ">
+                        <?php print_r( $see ); ?>
+                      </a>
+                    </li>
+
+                
+                  </ul>
